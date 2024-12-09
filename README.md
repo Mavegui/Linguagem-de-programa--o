@@ -18,7 +18,7 @@ O programa permite que o usuário insira seu peso e altura e, com base nesses da
 - Calcule o IMC.
 - Classifique o resultado como **magro**, **normal**, **sobrepeso**, **obesidade**, ou **obesidade grave**.
 
-> **Nota Importante:** Um relatório detalhado sobre o projeto foi criado seguindo as normas ABNT e inclui imagens e explicações sobre o desenvolvimento. Contudo, tanto o relatório quanto as imagens estão **desatualizados** em relação ao código atual, que foi reescrito usando o paradigma de Programação Orientada a Objetos (POO).
+> **Nota Importante:** Um relatório detalhado sobre o projeto foi criado seguindo as normas ABNT e inclui imagens e explicações sobre o desenvolvimento. Contudo, tanto o relatório quanto as imagens estão **desatualizados** em relação ao código atual, que foi reescrito com o objetivo de aprendizado utilizando o paradigma de Programação Orientada a Objetos (POO).
 
 ---
 
