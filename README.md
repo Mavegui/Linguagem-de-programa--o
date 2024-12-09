@@ -27,7 +27,7 @@ O programa permite que o usuário insira seu peso e altura e, com base nesses da
 ### **Cálculo do IMC**
 - Fórmula usada:
   \[
-  IMC = \frac{\text{peso}}{\text{altura}^2}
+  IMC = peso/(altura*altura)
   \]
 
 ### **Classificação do IMC**
