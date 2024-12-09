@@ -68,27 +68,3 @@ Saída:
 
 Seu IMC é: 22.86
 Você é classificado como: normal.
-
-Relatório em ABNT
-
-Um relatório detalhado foi elaborado seguindo as normas ABNT, apresentando:
-
-    O contexto e objetivo do projeto.
-    Estrutura do código.
-    Imagens explicativas.
-
-    Aviso: O relatório e as imagens estão desatualizados em relação à versão atual do código, que foi reestruturado para utilizar Programação Orientada a Objetos (POO).
-
-Aprendizados
-
-Durante o desenvolvimento deste projeto, foram consolidados os seguintes conceitos:
-
-    Utilização de classes e métodos para estruturar o código.
-    Boas práticas na organização do programa e validação de dados.
-    Aplicação de lógica condicional para resolver problemas reais.
-    Interação com o usuário por meio de entrada e saída de dados.
-
-Autor
-
-    Guilherme Feitosa
-    Trabalho realizado como parte da disciplina Linguagem de Programação do curso de Engenharia de Software (1º Semestre).
