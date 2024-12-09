@@ -57,14 +57,23 @@ O programa segue o paradigma de Programação Orientada a Objetos (POO). A class
 
 ---
 
-## **Exemplo de Saída**
+## **Relatório em ABNT**
 
-### Entrada:
-```plaintext
-Digite seu peso (em kg): 70
-Digite sua altura (em metros): 1.75
+Um relatório detalhado foi elaborado seguindo as normas ABNT, apresentando:
 
-Saída:
+- O contexto e objetivo do projeto.
+- Estrutura do código.
+- Imagens explicativas.
 
-Seu IMC é: 22.86
-Você é classificado como: normal.
+> **Aviso:** O relatório e as imagens estão **desatualizados** em relação à versão atual do código, que foi reestruturado para utilizar **Programação Orientada a Objetos (POO)**.
+
+---
+
+## **Aprendizados**
+
+Durante o desenvolvimento deste projeto, foram consolidados os seguintes conceitos:
+
+- Utilização de **classes** e **métodos** para estruturar o código.
+- Boas práticas na organização do programa e validação de dados.
+- Aplicação de lógica condicional para resolver problemas reais.
+- Interação com o usuário por meio de entrada e saída de dados.
